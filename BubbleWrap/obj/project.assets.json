@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\.VSCode\\BubbleWrap\\BubbleWrap\\BubbleWrap.csproj",
+      "projectUniqueName": "D:\\Data\\.VSCode\\BubbleWrapMaster\\BubbleWrapper\\BubbleWrap\\BubbleWrap.csproj",
       "projectName": "BubbleWrap",
-      "projectPath": "D:\\Data\\.VSCode\\BubbleWrap\\BubbleWrap\\BubbleWrap.csproj",
+      "projectPath": "D:\\Data\\.VSCode\\BubbleWrapMaster\\BubbleWrapper\\BubbleWrap\\BubbleWrap.csproj",
       "packagesPath": "C:\\Users\\ericl\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\.VSCode\\BubbleWrap\\BubbleWrap\\obj\\",
+      "outputPath": "D:\\Data\\.VSCode\\BubbleWrapMaster\\BubbleWrapper\\BubbleWrap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ericl\\AppData\\Roaming\\NuGet\\NuGet.Config",
