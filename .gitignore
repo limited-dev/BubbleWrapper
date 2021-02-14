@@ -54,4 +54,4 @@ dkms.conf
 #other stuff
 icon.ico
 pop.wav
-/pop
+*.mp3
